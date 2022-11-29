@@ -13,24 +13,30 @@ Line Width: 0.4
 Support Interface Line Width: 0.4
 
 Wall Line Count: 4
+
 Top Surface Skin Layers: 0.4
-### Top/Bottom Thickness: 0.7
-### Infill Density: 6.0
-### Infill Line Distance: 20.0
-### Infill Pattern: Cubic
-### Printing Temperature: 219.9
-### Build Plate Temperature(glass bed): 54.0
-### Fam Speed: 100.0
-### Print Speed: 30.0
-### Support Placement: Everywhere
-### Support Pattern: Zig Zag
-### Support Density: 10.0
-### Support Line Distance: 4.0
-### Support Z Distance: 0.14
-### Support Top Distance: 0.2
-### Support Bottom Distance: 0.2
-### Support X/Y Distance: 0.8
-### Enable Support Interface: Yes
-### Support Interface Thickness: 0.6
-### Support Interface Density: 20.0
-### Build Plate Adhesion Type: Brim for case.  Skirt for lid.
+
+Top/Bottom Thickness: 0.7
+
+Infill Density: 6.0
+
+Infill Line Distance: 20.0
+
+Infill Pattern: Cubic
+
+Printing Temperature: 219.9<br />
+Build Plate Temperature(glass bed): 54.0<br />
+Fam Speed: 100.0<br />
+Print Speed: 30.0<br />
+Support Placement: Everywhere<br />
+Support Pattern: Zig Zag<br />
+Support Density: 10.0<br />
+Support Line Distance: 4.0<br />
+Support Z Distance: 0.14<br />
+Support Top Distance: 0.2<br />
+Support Bottom Distance: 0.2<br />
+Support X/Y Distance: 0.8<br />
+Enable Support Interface: Yes<br />
+Support Interface Thickness: 0.6<br />
+Support Interface Density: 20.0<br />
+Build Plate Adhesion Type: Brim for case.  Skirt for lid.
