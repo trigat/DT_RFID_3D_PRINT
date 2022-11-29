@@ -1,6 +1,6 @@
 # DT RFID 3D PRINT
 
-This is an STL for a case that holds the current DT community WI-FI Reader at https://github.com/benbeezy/DTcommunityWIFIreader
+This is an STL for a case that holds the current Dangerous Things community WI-FI Reader at https://github.com/benbeezy/DTcommunityWIFIreader
 
 The lid pushes into the end of the case for a tight seal.  I've tested this with PCBs created by OSH Park.
 
