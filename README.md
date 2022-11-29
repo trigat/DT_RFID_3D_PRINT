@@ -1,15 +1,19 @@
 # DT RFID 3D PRINT
 
-## This is an STL for a case that holds the current DT community WI-FI Reader at https://github.com/benbeezy/DTcommunityWIFIreader
-## The lid pushes into the end of the case for a tight seal.  I've tested this with PCBs created by OSH Park.
+This is an STL for a case that holds the current DT community WI-FI Reader at https://github.com/benbeezy/DTcommunityWIFIreader
 
-## Tested Cura 5.2.1 settings for Ender 3 printer with wood filament:
+The lid pushes into the end of the case for a tight seal.  I've tested this with PCBs created by OSH Park.
 
-### Layer Height: 0.1
+<b>Tested Cura 5.2.1 settings for Ender 3 printer with wood filament:</b>
+
+Layer Height: 0.1
+
 Line Width: 0.4
+
 Support Interface Line Width: 0.4
-### Wall Line Count: 4
-### Top Surface Skin Layers: 0.4
+
+Wall Line Count: 4
+Top Surface Skin Layers: 0.4
 ### Top/Bottom Thickness: 0.7
 ### Infill Density: 6.0
 ### Infill Line Distance: 20.0
