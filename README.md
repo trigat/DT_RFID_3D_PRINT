@@ -6,24 +6,15 @@ The lid pushes into the end of the case for a tight seal.  I've tested this with
 
 <b>Tested Cura 5.2.1 settings for Ender 3 printer with wood filament:</b>
 
-Layer Height: 0.1
-
-Line Width: 0.4
-
-Support Interface Line Width: 0.4
-
-Wall Line Count: 4
-
-Top Surface Skin Layers: 0.4
-
-Top/Bottom Thickness: 0.7
-
-Infill Density: 6.0
-
-Infill Line Distance: 20.0
-
-Infill Pattern: Cubic
-
+Layer Height: 0.1<br />
+Line Width: 0.4<br />
+Support Interface Line Width: 0.4<br />
+Wall Line Count: 4<br />
+Top Surface Skin Layers: 0.4<br />
+Top/Bottom Thickness: 0.7<br />
+Infill Density: 6.0<br />
+Infill Line Distance: 20.0<br />
+Infill Pattern: Cubic<br />
 Printing Temperature: 219.9<br />
 Build Plate Temperature(glass bed): 54.0<br />
 Fam Speed: 100.0<br />
