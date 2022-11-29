@@ -6,8 +6,8 @@
 ## Tested Cura 5.2.1 settings for Ender 3 printer with wood filament:
 
 ### Layer Height: 0.1
-### Line Width: 0.4
-### Support Interface Line Width: 0.4
+Line Width: 0.4
+Support Interface Line Width: 0.4
 ### Wall Line Count: 4
 ### Top Surface Skin Layers: 0.4
 ### Top/Bottom Thickness: 0.7
