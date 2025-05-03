@@ -1,33 +1,6 @@
-# DT RFID 3D PRINT
+# Dangerous Things Community Wi-Fi Reader Case
 
-This is an STL for a case that holds the current Dangerous Things community WI-FI Reader at https://github.com/benbeezy/DTcommunityWIFIreader
+This is an STL for a case that holds the current Dangerous Things Community WI-FI Reader at [https://github.com/benbeezy/DTcommunityWIFIreader)](https://github.com/benbeezy/DTcommunityWIFIreader).
+This has been tested with PCBs created by OSH Park.
 
-The lid pushes into the end of the case for a tight seal.  I've tested this with PCBs created by OSH Park.
-
-<b>Tested Cura 5.2.1 settings for Ender 3 printer with wood filament:</b>
-
-Layer Height: 0.1<br />
-Line Width: 0.4<br />
-Support Interface Line Width: 0.4<br />
-Wall Line Count: 4<br />
-Top Surface Skin Layers: 0.4<br />
-Top/Bottom Thickness: 0.7<br />
-Infill Density: 6.0<br />
-Infill Line Distance: 20.0<br />
-Infill Pattern: Cubic<br />
-Printing Temperature: 219.9<br />
-Build Plate Temperature(glass bed): 54.0<br />
-Fam Speed: 100.0<br />
-Print Speed: 30.0<br />
-Support Placement: Everywhere<br />
-Support Pattern: Zig Zag<br />
-Support Density: 10.0<br />
-Support Line Distance: 4.0<br />
-Support Z Distance: 0.14<br />
-Support Top Distance: 0.2<br />
-Support Bottom Distance: 0.2<br />
-Support X/Y Distance: 0.8<br />
-Enable Support Interface: Yes<br />
-Support Interface Thickness: 0.6<br />
-Support Interface Density: 20.0<br />
-Build Plate Adhesion Type: Brim for case.  Skirt for lid.
+![WiFi NFC Reader](/WIFI_NFC_Reader.jpg)
